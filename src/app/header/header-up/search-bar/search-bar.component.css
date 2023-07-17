@@ -1,0 +1,48 @@
+
+.search-bar {
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+  }
+
+  .search-bar .Desplegable {
+    background-color: #d4d4d4;
+    color:#111;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    border-radius: 5px 0 0 5px;
+    margin-right: 2px;
+  }
+
+  .search-bar .Desplegable i {
+    margin-left: auto;
+    color:black;
+  }
+
+  .search-bar .Desplegable i.fa-caret-down {
+    font-size: 14px;
+  }
+
+  .search-bar .Buscador {
+    flex: 8;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    padding: 0 10px;
+  }
+
+  .search-bar .Boton button {
+    height: 40px;
+    background-color: #febd69;
+    border: none;
+    padding: 0 10px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+  }

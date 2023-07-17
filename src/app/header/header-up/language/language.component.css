@@ -1,0 +1,10 @@
+.language a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+
+.language a span {
+    margin-right: 5px;
+  }

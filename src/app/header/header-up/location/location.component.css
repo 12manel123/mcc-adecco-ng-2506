@@ -1,0 +1,19 @@
+.location a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .location a span {
+    margin-right: 60%;
+    font-size: 14px;
+    tab-size: left;
+  }
+
+  .location a p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+  }

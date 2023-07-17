@@ -1,0 +1,19 @@
+
+.returns a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.returns a span {
+    display: block;
+    font-size: 14px;
+  }
+
+.returns a p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
